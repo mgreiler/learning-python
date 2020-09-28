@@ -10,3 +10,6 @@ This repository contains ressources that helped me learn Python.
 ## Working with packages
 - Install packages: $pip install <package> 
 - Keep track of your installed packages in the requirements.txt file: $pip freeze > requirements.txt
+  
+## Learning about Python Code Styles
+- [Summary of Python Styles with examples](https://docs.python-guide.org/writing/style/)
