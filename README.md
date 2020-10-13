@@ -17,3 +17,6 @@ This repository contains ressources that helped me learn Python.
 ## Requests Framework
 - [Best practices to work with request](https://www.peterbe.com/plog/best-practice-with-retries-with-requests)
 - [Sweet short video on how to handle exception with request](https://youtu.be/QCq_wMnS_T0)
+
+## Web Server
+- Start a webserver: $ python -m SimpleHTTPServer
