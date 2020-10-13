@@ -19,4 +19,5 @@ This repository contains ressources that helped me learn Python.
 - [Sweet short video on how to handle exception with request](https://youtu.be/QCq_wMnS_T0)
 
 ## Web Server
-- Start a webserver: $ python -m SimpleHTTPServer
+- Start a webserver: python3 -m http.server 
+- [Set-up a local webserver](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
