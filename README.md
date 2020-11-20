@@ -6,6 +6,8 @@ This repository contains ressources that helped me learn Python.
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
+## Examples of Properies and contrast to Java
+- [Phyton 3 properties](https://www.python-course.eu/python3_properties.php)
 
 ## Working with packages
 - Install packages: $pip install <package> 
