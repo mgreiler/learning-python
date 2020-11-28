@@ -25,3 +25,7 @@ This repository contains ressources that helped me learn Python.
 ## Web Server
 - Start a webserver: python3 -m http.server 
 - [Set-up a local webserver](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
+
+
+## YouTube Channels
+- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
