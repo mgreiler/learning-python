@@ -17,6 +17,7 @@ This repository contains ressources that helped me learn Python.
   
 ## Learning about Python Code Styles
 - [Summary of Python Styles with examples](https://docs.python-guide.org/writing/style/)
+- [Docstring explained](https://www.python.org/dev/peps/pep-0257/)
 
 ## Requests Framework
 - [Best practices to work with request](https://www.peterbe.com/plog/best-practice-with-retries-with-requests)
