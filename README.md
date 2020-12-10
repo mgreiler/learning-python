@@ -6,6 +6,9 @@ This repository contains ressources that helped me learn Python.
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
+## Python Package Management
+- [Working with PipEnv](https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv)
+
 ## [Python type system](https://blog.daftcode.pl/first-steps-with-python-type-system-30e4296722af)
 
 ## Examples of Properies and contrast to Java
