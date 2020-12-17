@@ -40,3 +40,10 @@ This repository contains ressources that helped me learn Python.
 
 ## YouTube Channels
 - [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+
+
+## Live Streams
+- [Watch people stream](https://www.reddit.com/r/WatchPeopleCode/)
+- [Awesome Streamers List](https://github.com/bnb/awesome-developer-streams)
+- [Anthony Writes Codes](https://www.twitch.tv/anthonywritescode/)
+- [Nnjaio](https://www.twitch.tv/nnjaio)
