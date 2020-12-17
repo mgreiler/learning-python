@@ -16,6 +16,7 @@ This repository contains ressources that helped me learn Python.
 
 ## Object Oriented programming 
 - [Abstract Classes in Python](https://www.python-course.eu/python3_abstract_classes.php)
+- [ABC Documentation](https://docs.python.org/3/library/abc.html)
 
 ## Working with packages
 - Install packages: $pip install <package> 
