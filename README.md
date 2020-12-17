@@ -14,6 +14,9 @@ This repository contains ressources that helped me learn Python.
 ## Examples of Properies and contrast to Java
 - [Phyton 3 properties](https://www.python-course.eu/python3_properties.php)
 
+## Object Oriented programming 
+- [Abstract Classes in Python](https://www.python-course.eu/python3_abstract_classes.php)
+
 ## Working with packages
 - Install packages: $pip install <package> 
 - Keep track of your installed packages in the requirements.txt file: $pip freeze > requirements.txt
