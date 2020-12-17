@@ -46,4 +46,4 @@ This repository contains ressources that helped me learn Python.
 - [Watch people stream](https://www.reddit.com/r/WatchPeopleCode/)
 - [Awesome Streamers List](https://github.com/bnb/awesome-developer-streams)
 - [Anthony Writes Codes](https://www.twitch.tv/anthonywritescode/)
-- [Nnjaio](https://www.twitch.tv/nnjaio)
+- [Nina Zakharenko - Nnjaio](https://www.twitch.tv/nnjaio)
