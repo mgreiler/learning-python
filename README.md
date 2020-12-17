@@ -9,7 +9,8 @@ This repository contains ressources that helped me learn Python.
 ## Python Package Management
 - [Working with PipEnv](https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv)
 
-## [Python type system](https://blog.daftcode.pl/first-steps-with-python-type-system-30e4296722af)
+## Python type system
+- [First Steps](https://blog.daftcode.pl/first-steps-with-python-type-system-30e4296722af)
 
 ## Examples of Properies and contrast to Java
 - [Phyton 3 properties](https://www.python-course.eu/python3_properties.php)
